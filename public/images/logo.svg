@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <text x="20" y="78" font-family="system-ui, sans-serif" font-size="42" font-weight="700" fill="oklch(0.38 0.18 265)">Nest</text>
+  <text x="152" y="78" font-family="system-ui, sans-serif" font-size="42" font-weight="700" fill="oklch(0.85 0.16 85)">Key</text>
+  <text x="15" y="105" font-family="system-ui, sans-serif" font-size="14" letter-spacing="6" fill="oklch(0.55 0.02 260)">PROPERTY MANAGEMENT</text>
+  <rect x="20" y="18" width="4" height="44" rx="2" fill="oklch(0.38 0.18 265)"/>
+  <rect x="28" y="24" width="16" height="32" rx="4" fill="oklch(0.38 0.18 265)" opacity="0.8"/>
+  <path d="M48 18 L60 18 L60 24 L54 24 L54 62 L48 62 Z" fill="oklch(0.85 0.16 85)" opacity="0.9"/>
+  <circle cx="54" cy="40" r="5" fill="oklch(1 0 0)"/>
+</svg>
